@@ -1,0 +1,13 @@
+Conceptos basicos GITHUB:
+
+¿Que es Git?
+Git es un sistema de control de versiones, por lo que es un repositorio de control de versiones completo, donde es posible el trabajar sin conexion y de forma remota con faiclidad
+
+Clone: Clone tiene como funcion el apuntar a un repositorio existente para copiarlo o clonarlo en un nuevo directorio, esto funciona si queremos moverlo a otra ubicacion.
+
+Push: Sirve para subir el contenido de un repositorio local en uno central
+
+Commit: Sirve para capturar de forma instantánea los cambios realizados en un momento especifico del proyecto, por lo que se puede decir que es para guardar antecedentes de un proyecto para tener una copia segura a mano.
+
+Pull: Extra y descarga el contenido de un repositorio remoto y lo actualiza para mostrar el contenido.
+
